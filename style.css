@@ -1,0 +1,15 @@
+body{
+    background-color: cyan;
+    text-align: center;
+} 
+img{ 
+    border: 1px black;
+}
+.bob3_div{
+    width: 310px;
+font-size: 16px;
+box-shadow: 5px 5px 18px white;
+border: 1px solid;
+background-color: rgb(134, 134, 134);
+
+}
